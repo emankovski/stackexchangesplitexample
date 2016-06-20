@@ -1,1 +1,1 @@
-# Example os using master details bindings with storyboards
+# Example of using master details bindings with storyboards
